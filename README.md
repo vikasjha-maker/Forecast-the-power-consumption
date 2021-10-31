@@ -1,4 +1,4 @@
-# Forecast-the-power-consumption
+# Forecast-the-AC-power-consumption
 The data contains power for multiple ACs at some hotel in Gurgaon.
 
 1.Identify patterns/trends in the data? Which AC was used the most/least? 
